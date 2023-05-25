@@ -11,7 +11,6 @@
 body {
     color: white;
     height: 100vh;
-    background-image: linear-gradient(to top, #2f3e46, #354f52, #2f3e46);
     display: flex;
     justify-content: center;
     align-items: center;
